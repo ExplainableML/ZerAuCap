@@ -5,6 +5,9 @@
 <!-- [![Paper](http://img.shields.io/badge/paper-arxiv.2305.14930-B31B1B.svg)](https://arxiv.org/abs/2305.149309) -->
 [![NeurIPS - ML for Audio Workshop](http://img.shields.io/badge/NeurIPS_2023_ML_for_Audio_Workshop_(Oral)-2023-4b44ce.svg)](https://papers.nips.cc/paper/2030)
 <br>
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/zero-shot-audio-captioning-with-audio/zero-shot-audio-captioning-on-clotho)](https://paperswithcode.com/sota/zero-shot-audio-captioning-on-clotho?p=zero-shot-audio-captioning-with-audio)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/zero-shot-audio-captioning-with-audio/zero-shot-audio-captioning-on-audiocaps)](https://paperswithcode.com/sota/zero-shot-audio-captioning-on-audiocaps?p=zero-shot-audio-captioning-with-audio)
+<br>
 [![python](https://img.shields.io/badge/-Python_3.11-blue?logo=python&logoColor=white)](https://github.com/pre-commit/pre-commit)
 [![pytorch](https://img.shields.io/badge/PyTorch_2.0+-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/get-started/locally/)
 [![black](https://img.shields.io/badge/Code%20Style-Black-black.svg?labelColor=gray)](https://black.readthedocs.io/en/stable/)
