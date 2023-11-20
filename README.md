@@ -17,7 +17,7 @@
 
 ## Description
 
-This repository is the official implementation of the **NeurIPS 2023 - Machine Learning for Audio Workshop (Oral)** _Zero-shot audio captioning with audio-language model guidance and audio context keywords_ by Leonard Salewski, Stefan Fauth, A. Sophia Koepke, and Zeynep Akata from the University of Tübingen and the Tübingen AI Center.
+This repository is the official implementation of the **NeurIPS 2023 - Machine Learning for Audio Workshop (Oral)** _Zero-shot audio captioning with audio-language model guidance and audio context keywords_ by Leonard Salewski, Stefan Fauth, A. Sophia Koepke, and Zeynep Akata from the University of Tübingen and the Tübingen AI Center. You can find an ArXiv pre-print [here](https://arxiv.org/abs/2311.08396).
 
 ## Abstract
 
@@ -38,8 +38,12 @@ Please cite our work with the following bibtex key.
 @article{Salewski2023ZeroShotAudio,
   title   = {Zero-shot audio captioning with audio-language model guidance and audio context keywords},
   author  = {Leonard Salewski and Stefan Fauth and A. Sophia Koepke and Zeynep Akata},
+  year    = {2023},
+  journal = {arxiv:2311.08396},
 }
 ```
+
+You can also find our work on [Google Scholar](https://scholar.google.com/scholar_lookup?arxiv_id=2311.08396) and [Semantic Scholar](https://www.semanticscholar.org/paper/Zero-shot-audio-captioning-with-audio-language-and-Salewski-Fauth/87e80c9ff9a077e44e7b62a0cbad32dfadf4f1f4).
 
 ## Funding and Acknowledgments
 
