@@ -1,0 +1,278 @@
+[
+    {
+        "split": "val",
+        "sound_name": "rqfQRErjfk8_170000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "A large crowd cheers and applauds",
+            "An audience screams and gives applause",
+            "Continuous applause and cheering",
+            "An audience screams and gives applause",
+            "An audience cheers"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "rqu8iB22I_Y_5000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "Popping and crackling repeats as men yell and laugh",
+            "A vehicle is running and crackling and popping as people laugh",
+            "People yell and laugh as a motor sputters and pops",
+            "Men screeching and shouting while a vehicle is revving and backfiring loudly",
+            "People yell and laugh as a vehicle approaches and sputters"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "rwT__ERCUno_90000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "An engine idles consistently before sputtering some",
+            "A motorcycle engine is idling",
+            "A sputtering motor idles roughly",
+            "Sputtering and clanking of an idling powerful engine",
+            "An engine is idling while people speak"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "rwb6PSAee5Y_60000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "A toilet flushes quickly",
+            "A toilet flushes loudly and water runs down through the toilet and then gurgles at the bottom",
+            "A toilet flushes and water drains",
+            "A loud rumble followed by a toilet flushing",
+            "A toilet flushes and water drains"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "rwtmaKiCcQU_30000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "Distant men speak as a spray can nozzle is depressed",
+            "While a man talks in the distance, a sprayer sprays multiple times",
+            "Intermittent spraying is accompanied by men speaking",
+            "A spray hisses followed by a man speaking and low rumbling in the background",
+            "A person sprays liquid onto a hard surface as a man speaks and vehicles pass by"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "ryFDPxgDOGc_570000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "A man speaks as crickets sing",
+            "A man speaks as crickets sing",
+            "A man speaks as crickets sing",
+            "A man speaks as crickets sing",
+            "Insects chirp and men speak"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "s-T9OVOiMLo_330000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "Several insects fly while two men talk",
+            "Insects buzz and men speak",
+            "Many insects are buzzing as a man are speaking",
+            "Insects buzz as men speak",
+            "Insects buzz around and men talk"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "s3W19T14v1g_40000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "A truck engine accelerates as wind blows",
+            "Vehicle pass by on a road",
+            "A vehicle accelerates as road noise occurs",
+            "A car drives along a busy road, other cars drive as well",
+            "Vehicles pass by on a road"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "s3cT_DAj31g_80000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "A man talks followed by a woman shouting",
+            "A man speaks as water overflows making a hiss noise and a woman yells",
+            "A man speaks then a woman yells",
+            "A man speaks then a woman panics",
+            "An adult man speaks and a woman exclaims nervously"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "s4Uz1Ffgo04_100000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "A motor vehicle roars, drowning out people speaking in the background",
+            "Water rushes and then a vehicle zooms past",
+            "Water rushes by followed by a motorcycle zooming by in the distance",
+            "A motor vehicle accelerate",
+            "A vehicle with a diesel engine accelerates"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "s4tUs779vBA_160000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "A motor runs and stops, and animals squawk and croak",
+            "Submachine gun fire along with creature sound effects that continues after gunfire stops",
+            "Gunshots fire as a frog croaks",
+            "A motor sputters, animals croak, and a person exclaims",
+            "A motor runs choppily, followed by an animal croaking, and a person exclaiming"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "s59PfAghdkM_0.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "Birds chirp in the background while a horse neighs followed by a girl speaking",
+            "A young woman speaks and then a horse neighs in the background",
+            "A horse neighs and a girl talks",
+            "A bird tweets, a horse whinnies, and a girl speaks",
+            "Birds chirp then a girl speaks and a horse neighs"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "s6DESzUTGjY_16000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "A soft wind underscores a woman laughing",
+            "Distant waters roar amid foreground jostling and a gasp",
+            "Water is gurgling in a tank",
+            "Water is gurgling in a tank",
+            "Water is gurgling in a tank"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "s7knHCFW82w_30000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "Here comes the train and it starts to blow the horn and get close",
+            "A train horn sounds and railroad crossing ring",
+            "A train horn sounds and approaches as crossing bells ring",
+            "A horn is blown and increases in strength",
+            "A horn loudly blares"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "sAam2NqGhLY_20000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "Young female child snoring and breathing deeply",
+            "A recorded voice speaks briefly as a man snores",
+            "A man snores loudly as a recorded voice speaks in the background",
+            "A person snores as birds chirp softly in the distance",
+            "Distant faint rustling and clattering with nearby wheezing and snoring"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "sC_i_y7QS1U_300000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "Some men converse over an engine running",
+            "A motorcycle engine revs and a man speaks",
+            "A man speaks as a small engine revs",
+            "A motorcycle engine revs as a man speaks",
+            "A motorcycle engine runs and a man speaks"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "sCeWURVHfOM_30000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "A consistent ticking pattern",
+            "A clock ticktocks continuously",
+            "A repeated ticking",
+            "The ticktock of a clock arm repeatedly moving back and forth",
+            "A clock ticktocks"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "sCw3XnCos9s_50000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "Burping with men speaking",
+            "Someone burps and laughs before speaking",
+            "A person burping then laughs and speaks",
+            "Repeated burps are followed by a male speaking",
+            "A man burps, speaks, and burps again"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "sDSppXIlJrs_27000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "Water splashes and wind noise is made into a microphone",
+            "Water splashes and wind blows as birds chirp",
+            "The wind blares loudly against some clothing and water splashes in a river",
+            "Water splashes as wind noise takes place in a microphone",
+            "Water splashes and wind blows"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "sEprKHm8Sj8_90000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "A race car approaches quickly and slows down squealing tires",
+            "A mechanical buzzing getting louder",
+            "A vehicle accelerates before slowing down and squealing tires",
+            "A race car approaches quickly squealing tires",
+            "A race car accelerates quickly before decelerating and squealing tires"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "sG7TyPnFDR0_180000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "A man speaks while a machine runs before a smoke alarm beeps",
+            "A man speaks, followed by an electronic beep and another man speaking",
+            "A man speaks and a smoke alarm beeps",
+            "A man speaks then makes a device beep",
+            "A man speaks followed by a two beeps and another man speaking"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "sGgBtiZY0U8_30000.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "A boat engine runs and wind blows while a man speaks and women scream",
+            "A boat runs and wind blows while a man speaks and women cheer",
+            "An engine buzzing with wind and brief speech",
+            "Humming of a motor with people screaming then a woman speaks as wind blows hard and water splashes",
+            "Girls scream and a man speaks as wind blows and a boat motor runs"
+        ]
+    },
+    {
+        "split": "val",
+        "sound_name": "sHbXC6na9hg_0.wav",
+        "file_path": "WHAT_IS_THIS?",
+        "captions": [
+            "A person uses a saw to cut some wood",
+            "An engine rumbling followed by a mechanical buzzing",
+            "An engine revs loudly followed by some men talking and a saw cutting through metal",
+            "An engine idles continuously",
+            "An engine runs and people speak as cutting takes place"
+        ]
+    }
+]
